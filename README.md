@@ -13,7 +13,7 @@
 ## 🛠 My favorite tools and technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,express,rust,graphql,docker,ts,js,github,react,mongodb,mysql,postgres,azure,aws,redis,firebase,css,tailwind,bootstrap,androidstudio,redux,postman,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,express,rust,graphql,docker,ts,js,github,react,mongodb,mysql,postgres,azure,aws,redis,firebase,css,tailwind,xcode,bootstrap,androidstudio,redux,postman,figma&perline=8" />
 </p>
 
 
