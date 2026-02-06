@@ -13,7 +13,7 @@
 ## 🛠 My favorite tools and technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,graphql,docker,nginx,ts,js,github,react,angular,hibernate,mongodb,mysql,postgres,azure,aws,redis,kafka,rabbitmq,kotlin,firebase,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,riverpod,bloc,getx,express,rust,solana,graphql,docker,nginx,ts,js,github,react,mongodb,mysql,postgres,azure,aws,redis,,firebase,androidstudio" />
 </p>
 
 
